@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "/home/andreas/SW-Projekte/i18n-ally-test"
+		}
+  ],
+  "settings": {
+    "i18n-ally.keyMatchRegex": ".*?",
+    "xi18n-ally.keyMatchRegex": "(?:i18n|req)\\.t\\(\\s*['\"`]({key})['\"`]",
+    "i18n-ally.localesPaths": "locales",
+    "i18n-ally.disablePathParsing": true,
+    "i18n-ally.includeSubfolders": true,
+    "i18n-ally.fullReloadOnChanged": true,
+    "i18n-ally.sourceLanguage": "en",
+    "i18n-ally.displayLanguage": "de"
+  }
+}
